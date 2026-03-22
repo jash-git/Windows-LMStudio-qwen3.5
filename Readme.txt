@@ -50,3 +50,12 @@ https://www.dhzyw.com/archives/7940.html
 	}
 
 
+======
+
+
+PS 9:42 配置LM到龍蝦之中
+	Custom provider
+		url: http://192.168.56.1:1234/v1
+		Api key: asd700502
+		Endpoint compatibility: OpenAI-compatible
+		Model ID: qwen/qwen3.5-9b
